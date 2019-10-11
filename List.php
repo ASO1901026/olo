@@ -86,9 +86,8 @@
         <td></td>
     </tr>
 </table>
-<!--     border="1" style="border-collapse: collapse; border-color:black"-->
 
-<table align="center">
+<table align="center" border="1" style="border-collapse: collapse; border-color:black">
     <tr>
         <td width="22" id="td_css1"><input type="text" size="22"></td> <!--求人No.-->
         <td width="15" id="td_css"><input type="text" size="15"></td> <!--区分 -->
@@ -102,26 +101,26 @@
         <td id="td_css2"></td><!--プルダウン用に残してる列-->
     </tr>
     <tr>
-        <td id="td_css9">開催時間</td>
-        <td colspan="2" id="td_css8"><!--DB--></td>
-        <td id="td_css8" style="font-size: 14px">説明会入力〆切</td>
-        <td id="td_css8"><input type="date"><!---DB--></td>
-        <td id="td_css8">説明会参加数<!--DB--></td>
+        <td id="td_css">開催時間</td>
+        <td colspan="2" id="td_css"><!--DB--></td>
+        <td id="td_css" style="font-size: 14px">説明会入力〆切</td>
+        <td id="td_css"><input type="date"><!---DB--></td>
+        <td id="td_css">説明会参加数<!--DB--></td>
         <td></td><td></td><td></td><td></td>
     </tr>
     <tr>
-        <td id="td_css9">開催場所</td>
-        <td colspan="2" id="none"><!--DB--></td>
-        <td id="td_css8" style="font-size: 12px">受験確認入力〆切</td>
-        <td id="td_css8"><input type="date"><!--DB--></td>
-        <td id="td_css8">受験参加数<!--DB--></td>
+        <td id="td_css">開催場所</td>
+        <td colspan="2" id="td_css"><!--DB--></td>
+        <td id="td_css" style="font-size: 12px">受験確認入力〆切</td>
+        <td id="td_css"><input type="date"><!--DB--></td>
+        <td id="td_css">受験参加数<!--DB--></td>
         <td></td>
-        <td colspan="2" id="td_css8"><a href="Participant.php">参加者一覧</a></td>
+        <td colspan="2" id="td_css"><a href="Participant.php">参加者一覧</a></td>
         <td></td>
     </tr>
     <tr>
-        <td id="td_css9">持参物</td>
-        <td colspan="2" id="td_css8"><!--DB--></td>
+        <td id="td_css">持参物</td>
+        <td colspan="2" id="td_css"><!--DB--></td>
     </tr>
 </table>
 <!--<table align="center">-->

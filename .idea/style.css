@@ -1,0 +1,182 @@
+
+/*Sign in with Slack画面のタイトル*/
+p#title{
+    font-size: 80px;
+    text-align: center;
+    color: gray;
+}
+/*Sign in with Slack画面のサブタイトル*/
+p#sabtitle{
+    font-size: 50px;
+    text-align: center;
+    color: gray;
+}
+/*テキストのセンター寄せ*/
+div#CenterID{
+    text-align: center;
+}
+/*headerの画面遷移のボタン*/
+a.user{
+    font-size:0.75em;
+    display:block;
+    width: 100%;
+    padding-top:10px;
+    padding-bottom:10px;
+    text-align:center;
+    border:2px solid;
+    border-color:#aaaaaa #444444 #444444 #aaaaaa;
+    background:skyblue;
+}
+/*ボタンにカーソルを合わせると色が変わる*/
+a.user:hover{
+    background: skyblue;
+}
+a.briefing{
+    font-size:0.75em;
+    display:block;
+    width:100%;
+    padding-top:10px;
+    padding-bottom:10px;
+    text-align:center;
+    border:2px solid;
+    border-color:#aaaaaa #444444 #444444 #aaaaaa;
+    background:white;
+}
+a.briefing:hover{
+    background: skyblue;
+}
+a.user1{
+    font-size:0.75em;
+    display:block;
+    width: 100%;
+    padding-top:10px;
+    padding-bottom:10px;
+    text-align:center;
+    border:2px solid;
+    border-color:#aaaaaa #444444 #444444 #aaaaaa;
+    background:white;
+}
+a.user1:hover{
+    background: skyblue;
+}
+a.briefing1{
+    font-size:0.75em;
+    display:block;
+    width:100%;
+    padding-top:10px;
+    padding-bottom:10px;
+    text-align:center;
+    border:2px solid;
+    border-color:#aaaaaa #444444 #444444 #aaaaaa;
+    background:skyblue;
+}
+a.briefing1:hover{
+    background: skyblue;
+}
+/*ここまで画面遷移のボタン*/
+
+td.colspan{
+    background: skyblue;
+    height:45px;
+    font-size: 20px;
+}
+
+
+
+
+
+
+.hidden_box{
+    margin: 2em 0;/*前後の余白*/
+    padding: 0;
+}
+
+/*ボタン装飾*/
+/*.hidden_box label{*/
+    /*padding: 15px;*/
+    /*font-weight: bold;*/
+    /*border: solid 2px black;*/
+    /*cursor :pointer;*/
+/*}*/
+
+/*ボタンホバー時*/
+.hidden_box label:hover {
+    background: #efefef;
+}
+
+/*チェックは見えなくする*/
+.hidden_box input {
+    display: none;
+}
+
+/*中身を非表示にしておく*/
+.hidden_box .hidden_show {
+    height: 0;
+    padding: 0;
+    overflow: hidden;
+    opacity: 0;
+    transition: 0.8s;
+}
+
+/*クリックで中身表示*/
+.hidden_box input:checked ~ .hidden_show {
+    padding: 10px 0;
+    height: auto;
+    opacity: 1;
+}
+
+
+
+/*枠線のCSS*/
+td#td_css{
+    border-right-style: none;
+    border-left-style: none;
+}
+td#td_css1{
+    border-right-style: none;
+    border-bottom-style: none;
+}
+td#td_css2{
+    border-left-style: none;
+}
+td#td_css3{
+    border-right-style: none;
+    border-bottom-style: none;
+}
+td#td_css4{
+    border-left-style: none;
+    border-bottom-style: none;
+}
+td#td_css5{
+    border-top-style: none;
+    border-right-style: none;
+}
+td#td_css6{
+    border-top-style: none;
+    border-right-style: none;
+    border-left-style: none;
+}
+td#td_css7{
+    border-left-style: none;
+    border-top-style: none;
+ }
+td#td_css8{
+    border-top-style: none;
+    border-right-style: none;
+    border-left-style: none;
+    border-bottom-style: none;
+}
+td#td_css9{
+    border-top-style: none;
+    border-right-style: none;
+    border-bottom-style: none;
+}
+td#none{
+    border: none;
+}
+
+
+/*説明会リストのフォント設定*/
+p.List_font{
+    font-size: 100px;
+}

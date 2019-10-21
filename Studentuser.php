@@ -67,27 +67,28 @@
         <td>感情</td>
         <td></td>
     </tr>
-<table align="center" border="1" style="border-collapse: collapse; border-color:gray">
+<!--    align="center" border="1" style="border-collapse: collapse; border-color:gray"-->
+<table align="center" frame="box">
 <!-- idは設定してない　-->
     <tr>
-        <td width="25" id="td_css1"><input type="text" size="25"></td> <!-- 学籍番号　-->
-        <td width="22" id="td_css"><input type="text" size="22"></td> <!-- 名前　-->
-        <td width="15" id="td_css"><input type="text" size="15"></td> <!-- 性別　-->
-        <td width="15" id="td_css"><input type="text" size="15"></td> <!-- 年齢　-->
-        <td width="40" id="td_css"><input type="text" size="40"></td> <!-- 所属　-->
-        <td width="15" id="td_css"><input type="text" size="15"></td> <!-- 学年　-->
-        <td width="35" id="td_css"><input type="text" size="35"></td> <!-- 状況　-->
-        <td id="td_css2">⭕</td> <!-- 感情　-->
+        <td width="25"><input type="text" size="25"></td> <!-- 学籍番号　-->
+        <td width="22"><input type="text" size="22"></td> <!-- 名前　-->
+        <td width="15"><input type="text" size="15"></td> <!-- 性別　-->
+        <td width="15"><input type="text" size="15"></td> <!-- 年齢　-->
+        <td width="40"><input type="text" size="40"></td> <!-- 所属　-->
+        <td width="15"><input type="text" size="15"></td> <!-- 学年　-->
+        <td width="35"><input type="text" size="35"></td> <!-- 状況　-->
+        <td>⭕</td> <!-- 感情　-->
     </tr>
     <tr>
-        <td colspan="4" id="td_css3">参加説明会一覧</td>
-        <td colspan="4" id="td_css4">詳細状況一覧</td>
+        <td colspan="4">参加説明会一覧</td>
+        <td colspan="4">詳細状況一覧</td>
     </tr>
     <tr>
-        <td id="td_css5">190000001<!--DB--></td>
-        <td colspan="2" id="td_css6">麻生情報ビジネス株式会社<!----></td>
-        <td id="td_css6">説明会<!--DB--></td>
-        <td colspan="4" id="td_css7"><input type="text"><!--DB--></td>
+        <td>190000001<!--DB--></td>
+        <td colspan="2">麻生情報ビジネス株式会社<!----></td>
+        <td>説明会<!--DB--></td>
+        <td colspan="4"><input type="text"><!--DB--></td>
     </tr>
 </table>
 

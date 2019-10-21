@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9bd47342-007f-4737-a198-98eefbd556e1" name="Default" comment="" />
+    <list default="true" id="9bd47342-007f-4737-a198-98eefbd556e1" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Arrowsin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Arrowsout.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List.php" beforeDir="false" afterPath="$PROJECT_DIR$/List.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Studentuser.php" beforeDir="false" afterPath="$PROJECT_DIR$/Studentuser.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,11 +40,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Participant.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Participant.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Participant.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="44" lean-forward="true" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
+            <state relative-caret-position="213">
+              <caret line="43" column="36" lean-forward="true" selection-start-line="43" selection-start-column="36" selection-end-line="43" selection-end-column="36" />
+              <folding>
+                <element signature="e#2222#2273#0#HTML" expanded="true" />
+                <element signature="e#2324#2375#0#HTML" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -44,17 +56,23 @@
       <file leaf-file-name="Join.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Join.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="74">
-              <caret line="101" column="52" lean-forward="true" selection-start-line="101" selection-start-column="52" selection-end-line="101" selection-end-column="52" />
+            <state relative-caret-position="492">
+              <caret line="91" column="22" lean-forward="true" selection-start-line="91" selection-start-column="22" selection-end-line="91" selection-end-column="22" />
+              <folding>
+                <element signature="e#4350#4401#0#HTML" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="List.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="List.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/List.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1305">
-              <caret line="87" column="8" lean-forward="true" selection-start-line="87" selection-start-column="8" selection-end-line="87" selection-end-column="8" />
+            <state relative-caret-position="250">
+              <caret line="88" column="70" lean-forward="true" selection-start-line="88" selection-start-column="7" selection-end-line="88" selection-end-column="70" />
+              <folding>
+                <element signature="e#4352#4375#0#HTML" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -62,11 +80,8 @@
       <file leaf-file-name="Studentuser.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Studentuser.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1290">
-              <caret line="86" column="48" lean-forward="true" selection-start-line="86" selection-start-column="48" selection-end-line="86" selection-end-column="48" />
-              <folding>
-                <element signature="e#2467#2519#0#HTML" expanded="true" />
-              </folding>
+            <state relative-caret-position="794">
+              <caret line="60" column="31" lean-forward="true" selection-start-line="60" selection-start-column="31" selection-end-line="60" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -74,8 +89,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1725">
-              <caret line="115" column="21" lean-forward="true" selection-start-line="115" selection-start-column="21" selection-end-line="115" selection-end-column="21" />
+            <state relative-caret-position="301">
+              <caret line="134" column="33" lean-forward="true" selection-start-line="134" selection-start-column="33" selection-end-line="134" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -91,6 +106,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -101,10 +119,10 @@
         <option value="$PROJECT_DIR$/Briefing.php" />
         <option value="$PROJECT_DIR$/Calendar.php" />
         <option value="$PROJECT_DIR$/Join.php" />
-        <option value="$PROJECT_DIR$/Participant.php" />
         <option value="$PROJECT_DIR$/.idea/style.css" />
-        <option value="$PROJECT_DIR$/Studentuser.php" />
         <option value="$PROJECT_DIR$/List.php" />
+        <option value="$PROJECT_DIR$/Studentuser.php" />
+        <option value="$PROJECT_DIR$/Participant.php" />
       </list>
     </option>
   </component>
@@ -127,6 +145,7 @@
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -204,27 +223,41 @@
       <workItem from="1569980525453" duration="7694000" />
       <workItem from="1570149248345" duration="34166000" />
       <workItem from="1570582381936" duration="9175000" />
-      <workItem from="1570757954797" duration="1990000" />
+      <workItem from="1570757954797" duration="12206000" />
     </task>
+    <task id="LOCAL-00001" summary="変更テスト">
+      <created>1570763482343</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1570763482343</updated>
+    </task>
+    <task id="LOCAL-00002" summary="一応完成品&#10;tableのプルダウンの動きは完成してない(T . T)">
+      <created>1571627357486</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1571627357486</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58798000" />
+    <option name="totallyTimeSpent" value="69014000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.12589413" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12589413" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.51151514" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32363635" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -260,8 +293,39 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="変更テスト" />
+    <MESSAGE value="一応完成品&#10;tableのプルダウンの動きは完成してない(T . T)" />
+    <option name="LAST_COMMIT_MESSAGE" value="一応完成品&#10;tableのプルダウンの動きは完成してない(T . T)" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Signinwithslack.php">
@@ -282,6 +346,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="22" column="44" lean-forward="true" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
+          <folding>
+            <element signature="e#2222#2273#0#HTML" expanded="true" />
+            <element signature="e#2324#2375#0#HTML" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -289,6 +357,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1515">
           <caret line="101" column="52" lean-forward="true" selection-start-line="101" selection-start-column="52" selection-end-line="101" selection-end-column="52" />
+          <folding>
+            <element signature="e#4350#4401#0#HTML" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -296,6 +367,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1380">
           <caret line="92" column="23" selection-start-line="92" selection-start-column="23" selection-end-line="92" selection-end-column="23" />
+          <folding>
+            <element signature="e#4352#4375#0#HTML" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -303,9 +377,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1515">
           <caret line="101" column="34" lean-forward="true" selection-start-line="101" selection-start-column="34" selection-end-line="101" selection-end-column="34" />
-          <folding>
-            <element signature="e#2467#2519#0#HTML" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -327,6 +398,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
           <caret line="33" lean-forward="true" selection-start-line="5" selection-end-line="33" />
+          <folding>
+            <element signature="e#4352#4375#0#HTML" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -341,6 +415,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1215">
           <caret line="81" column="52" selection-start-line="81" selection-start-column="52" selection-end-line="81" selection-end-column="52" />
+          <folding>
+            <element signature="e#4350#4401#0#HTML" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -348,9 +425,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1635">
           <caret line="109" column="69" lean-forward="true" selection-start-line="109" selection-start-column="69" selection-end-line="109" selection-end-column="69" />
-          <folding>
-            <element signature="e#2467#2519#0#HTML" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -365,6 +439,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
           <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="e#2222#2273#0#HTML" expanded="true" />
+            <element signature="e#2324#2375#0#HTML" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -379,9 +457,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="27" column="17" lean-forward="true" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
-          <folding>
-            <element signature="e#2467#2519#0#HTML" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -389,6 +464,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
           <caret line="38" column="7" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="38" selection-end-column="7" />
+          <folding>
+            <element signature="e#4352#4375#0#HTML" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -396,6 +474,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="11" column="2" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+          <folding>
+            <element signature="e#4350#4401#0#HTML" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -456,10 +537,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/style.css">
+    <entry file="file://$PROJECT_DIR$/List.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1725">
-          <caret line="115" column="21" lean-forward="true" selection-start-line="115" selection-start-column="21" selection-end-line="115" selection-end-column="21" />
+        <state relative-caret-position="250">
+          <caret line="88" column="70" lean-forward="true" selection-start-line="88" selection-start-column="7" selection-end-line="88" selection-end-column="70" />
+          <folding>
+            <element signature="e#4352#4375#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Studentuser.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="794">
+          <caret line="60" column="31" lean-forward="true" selection-start-line="60" selection-start-column="31" selection-end-line="60" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -467,6 +558,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="24" column="33" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="134" column="33" lean-forward="true" selection-start-line="134" selection-start-column="33" selection-end-line="134" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -479,32 +577,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Join.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="74">
-          <caret line="101" column="52" lean-forward="true" selection-start-line="101" selection-start-column="52" selection-end-line="101" selection-end-column="52" />
+        <state relative-caret-position="492">
+          <caret line="91" column="22" lean-forward="true" selection-start-line="91" selection-start-column="22" selection-end-line="91" selection-end-column="22" />
+          <folding>
+            <element signature="e#4350#4401#0#HTML" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Participant.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="44" lean-forward="true" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Studentuser.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1290">
-          <caret line="86" column="48" lean-forward="true" selection-start-line="86" selection-start-column="48" selection-end-line="86" selection-end-column="48" />
+        <state relative-caret-position="213">
+          <caret line="43" column="36" lean-forward="true" selection-start-line="43" selection-start-column="36" selection-end-line="43" selection-end-column="36" />
           <folding>
-            <element signature="e#2467#2519#0#HTML" expanded="true" />
+            <element signature="e#2222#2273#0#HTML" expanded="true" />
+            <element signature="e#2324#2375#0#HTML" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/List.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1305">
-          <caret line="87" column="8" lean-forward="true" selection-start-line="87" selection-start-column="8" selection-end-line="87" selection-end-column="8" />
         </state>
       </provider>
     </entry>

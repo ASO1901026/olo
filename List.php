@@ -86,41 +86,53 @@
         <td></td>
     </tr>
 </table>
-
-<table align="center" border="1" style="border-collapse: collapse; border-color:black">
+<!--   border="1" style="border-collapse: collapse; border-color:gray"  -->
+<table align="center" frame="box">
     <tr>
-        <td width="22" id="td_css1"><input type="text" size="22"></td> <!--求人No.-->
-        <td width="15" id="td_css"><input type="text" size="15"></td> <!--区分 -->
-        <td width="40" id="td_css"><input type="text" size="40"></td> <!-- 企業名-->
-        <td width="15" id="td_css"><input type="text" size="15"></td> <!--内容 -->
-        <td width="20" id="td_css"><input type="text" size="20"></td> <!--日時 -->
-        <td width="40" id="td_css"><input type="text" size="40"></td> <!--職種 -->
-        <td width="20" id="td_css"><input type="text" size="20"></td> <!--対象 -->
-        <td width="10" id="td_css"><input type="text" size="10"></td> <!--留学生 -->
-        <td width="10" id="td_css"><input type="text" size="10"></td> <!--障がい者 -->
-        <td id="td_css2"></td><!--プルダウン用に残してる列-->
+        <td width="22"><input type="text" size="22"></td> <!--求人No.-->
+        <td width="15"><input type="text" size="15"></td> <!--区分 -->
+        <td width="40"><input type="text" size="40"></td> <!-- 企業名-->
+        <td width="15"><input type="text" size="15"></td> <!--内容 -->
+        <td width="20"><input type="text" size="20"></td> <!--日時 -->
+        <td width="40"><input type="text" size="40"></td> <!--職種 -->
+        <td width="20"><input type="text" size="20"></td> <!--対象 -->
+        <td width="10"><input type="text" size="10"></td> <!--留学生 -->
+        <td width="10"><input type="text" size="10"></td> <!--障がい者 -->
+        <td></td><!--プルダウン用に残してる列-->
     </tr>
     <tr>
-        <td id="td_css">開催時間</td>
-        <td colspan="2" id="td_css"><!--DB--></td>
-        <td id="td_css" style="font-size: 14px">説明会入力〆切</td>
-        <td id="td_css"><input type="date"><!---DB--></td>
-        <td id="td_css">説明会参加数<!--DB--></td>
+        <td>開催時間</td>
+        <td colspan="2"><!--DB--></td>
+        <td style="font-size: 14px">説明会入力〆切</td>
+        <td><input type="date"><!---DB--></td>
+        <td>説明会参加数<!--DB--></td>
         <td></td><td></td><td></td><td></td>
     </tr>
     <tr>
-        <td id="td_css">開催場所</td>
-        <td colspan="2" id="td_css"><!--DB--></td>
-        <td id="td_css" style="font-size: 12px">受験確認入力〆切</td>
-        <td id="td_css"><input type="date"><!--DB--></td>
-        <td id="td_css">受験参加数<!--DB--></td>
+        <td>開催場所</td>
+        <td colspan="2"><!--DB--></td>
+        <td style="font-size: 12px">受験確認入力〆切</td>
+        <td><input type="date"><!--DB--></td>
+        <td>受験参加数<!--DB--></td>
         <td></td>
-        <td colspan="2" id="td_css"><a href="Participant.php">参加者一覧</a></td>
+        <td colspan="2"></td>
         <td></td>
     </tr>
     <tr>
-        <td id="td_css">持参物</td>
-        <td colspan="2" id="td_css"><!--DB--></td>
+        <td>持参物</td>
+        <td colspan="2"><!--DB--></td>
+        <td>勤務地</td>
+        <td><!--DB--></td>
+        <td>内定数</td>
+        <td><!--DB--></td>
+        <td colspan="2"><a href="Participant.php">参加者一覧</a></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>備考</td>
+        <td colspan="6"><!--DB--></td>
+        <td colspan="2"><input type="button" id="ListupdateBt" value="更新"></td>
+        <td></td>
     </tr>
 </table>
 <!--<table align="center">-->
